@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Console-games\\ConsoleGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A22D48-3DD7-4EE2-BB05-DF82643D4C3F}|..\\HangMan\\HangMan.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\console-games\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EBA2B6-B6EE-4F7A-970B-4EE68C7776E6}|..\\Rock-Paper-Scissors\\Rock-Paper-Scissors.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\console-games\\rock-paper-scissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2C88FC-51BE-4A8C-806A-18474BD1CD26}|ConsoleGames.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\console-games\\consolegames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2C88FC-51BE-4A8C-806A-18474BD1CD26}|ConsoleGames.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Console-games\\HangMan\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HangMan\\Program.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Console-games\\HangMan\\Program.cs",
+              "RelativeToolTip": "..\\HangMan\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:30:00.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Console-games\\Rock-Paper-Scissors\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Rock-Paper-Scissors\\Program.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Console-games\\Rock-Paper-Scissors\\Program.cs",
+              "RelativeToolTip": "..\\Rock-Paper-Scissors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:58:22.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Console-games\\ConsoleGames\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Console-games\\ConsoleGames\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:50:07.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
